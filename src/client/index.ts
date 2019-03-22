@@ -3,6 +3,8 @@ import image from './assets/image/books01.png';
 
 const axios = require("axios");
 
+document.createElement('div');
+
 const undesiredElements = [
     "id",
     "image_url"
