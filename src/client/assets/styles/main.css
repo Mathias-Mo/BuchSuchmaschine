@@ -1,0 +1,17 @@
+html, body {
+    font-size: 1rem;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    position: relative;
+}
+
+@import url('header-style.css');
+@import url('form-style.css');
+@import url('body-style.css');
+@import url('table-style.css');
+@import url('tooltip-style.css');
+@import url('searchbox-style.css');
+@import url('autocomplete-style.css');

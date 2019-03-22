@@ -1,0 +1,28 @@
+#header{
+    
+    background-color: rgb(146, 140, 83);
+    
+    /*text-align: center*/
+    margin-bottom: 1%;
+
+}
+
+#headerImg{
+    padding-left: 1%;
+}
+
+#headerImgDiv{
+    padding-left: 1%;
+    padding-top: 1%;
+    float: left;
+    border: 1px solid rgb(146, 140, 83);
+    width: 100px;
+    
+}
+
+#headerTextDiv{
+    margin-left: 35%;    
+    border: 1px solid rgb(146, 140, 83);   
+    font-size: 150%;
+    overflow: hidden;
+}
